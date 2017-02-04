@@ -1,0 +1,5 @@
+/Users/rosa/Dropbox/PracticaTema7/PracticaEvaluable/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/rosa/Dropbox/PracticaTema7/PracticaEvaluable/bin/Debug/PracticaEvaluable.exe.mdb
+/Users/rosa/Dropbox/PracticaTema7/PracticaEvaluable/bin/Debug/PracticaEvaluable.exe
+/Users/rosa/Dropbox/PracticaTema7/PracticaEvaluable/obj/x86/Debug/PracticaEvaluable.exe
+/Users/rosa/Dropbox/PracticaTema7/PracticaEvaluable/obj/x86/Debug/PracticaEvaluable.exe.mdb
